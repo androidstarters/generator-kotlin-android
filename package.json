@@ -1,6 +1,6 @@
 {
   "name": "generator-kotlin-android",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An Kotlin MVP Boilerplate to save me having to create the same project over from scratch every time! :)",
   "homepage": "https://github.com/ravidsrk/kotlin-android-starter",
   "author": {
