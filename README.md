@@ -5,6 +5,11 @@
 
 > An Kotlin MVP Boilerplate to save me having to create the same project over from scratch every time! :)
 
+<p align="center">
+  <img src="http://g.recordit.co/L5selg7aIv.gif" width="250">
+  <img src="http://g.recordit.co/aJOXLF6WgR.gif">
+</p>
+
 ## How it works?
 It provides a generator to create and maintain a android application based on the latest  frameworks and patterns used by the community.
 
