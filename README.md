@@ -1,7 +1,7 @@
 # generator-kotlin-android
 
 [![Join the chat at https://gitter.im/generator-kotlin-android/Lobby](https://badges.gitter.im/generator-kotlin-android/Lobby.svg)](https://gitter.im/generator-kotlin-android/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage Status](https://coveralls.io/repos/github/ravidsrk/generator-kotlin-android/badge.svg?branch=master)](https://coveralls.io/github/ravidsrk/generator-kotlin-android?branch=master)
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 > An Kotlin MVP Boilerplate to save me having to create the same project over from scratch every time! :)
 
