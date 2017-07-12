@@ -57,9 +57,9 @@ Apache-2.0 © [Ravindra Kumar](https://github.com/ravidsrk/)
 
 [npm-image]: https://badge.fury.io/js/generator-kotlin-android.svg
 [npm-url]: https://npmjs.org/package/generator-kotlin-android
-[travis-image]: https://travis-ci.org/ravidsrk/generator-kotlin-android.svg?branch=master
-[travis-url]: https://travis-ci.org/ravidsrk/generator-kotlin-android
-[daviddm-image]: https://david-dm.org/ravidsrk/generator-kotlin-android.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ravidsrk/generator-kotlin-android
+[travis-image]: https://travis-ci.org/androidstarters/generator-kotlin-android.svg?branch=master
+[travis-url]: https://travis-ci.org/androidstarters/generator-kotlin-android
+[daviddm-image]: https://david-dm.org/androidstarters/generator-kotlin-android.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/androidstarters/generator-kotlin-android
 [coveralls-image]: https://coveralls.io/repos/github/ravidsrk/generator-kotlin-android/badge.svg?branch=master
 [coveralls-url]: https://coveralls.io/github/ravidsrk/generator-kotlin-android?branch=master
