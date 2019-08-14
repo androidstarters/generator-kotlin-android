@@ -11,7 +11,7 @@
   "files": [
     "generators"
   ],
-  "main": "generators/index.js",
+  "main": "generators/app/index.js",
   "keywords": [
     "Android",
     "Starter",
@@ -33,7 +33,7 @@
     "filter-files": "^0.4.0",
     "find-in-files": "^0.4.0",
     "fs-finder": "^1.8.1",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-coveralls": "^0.1.0",
     "gulp-eslint": "^4.0.0",
     "gulp-exclude-gitignore": "^1.0.0",
