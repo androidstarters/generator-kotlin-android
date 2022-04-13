@@ -27,7 +27,7 @@
     "yosay": "^2.0.0"
   },
   "devDependencies": {
-    "async": "^2.0.1",
+    "async": "^3.2.2",
     "eslint": "^4.0.0",
     "eslint-config-xo-space": "^0.16.0",
     "filter-files": "^0.4.0",
